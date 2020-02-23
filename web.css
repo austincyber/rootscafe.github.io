@@ -1,0 +1,145 @@
+body{background-color:#;}
+
+
+p{text-align:center;
+ font-size: 30px;
+  line-height: 1.5;
+  font-family:Footlight MT light;
+  text-decoration:blink;}
+  
+ 
+  
+.img{margin-left:5%;
+border:3px solid black;}
+.imgg{margin-left:5%;
+border-style:outset;
+ 
+}
+.imggg{margin-left:5.8%;
+border-style:outset;}
+
+
+.imggs{margin-left:2%;}
+
+
+.welcome{display:block;
+text-align:center;
+ font-family: 'Jokerman',Regular;
+ font-size:80px;
+ padding:70px 10px 0px 0px;
+ color:white;
+ font-weight:bold;
+}
+
+.wellcome{background-color:#996633 ;
+opacity:2.0;
+filter:alpha(opacity=100);
+border:25px solid white;
+border-radius:50%;
+height:350px;
+width:370px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:5%;
+padding-top:150px;
+margin-top:3px;
+padding:70px 70px 70px 70px;
+}
+
+.root{text-align:center;
+display:block;
+
+ font-family:'Curlz MT',Regular;
+ font-size:80px;} 
+ 
+ 
+.about{display:block;
+text-align:center;
+ font-family:script MT bold;
+ font-size:60px;}
+ 
+ 
+ 
+ 
+.more{display:block;
+text-align:center;
+ font-family: 'Bad Script', cursive;
+ font-size:60px;
+ color:#996633;}
+ 
+ 
+ 
+ 
+.dedicated{display:block;
+text-align:center;
+ font-family: 'Bad Script', cursive;
+ font-size:60px;
+ color:#996633;}
+ 
+ 
+ 
+.stay{display:block;
+text-align:center;
+ font-family: 'Bad Script', cursive;
+ font-size:60px;
+ color:#996633;}
+ 
+ 
+ 
+ 
+ .roots{font-family:'colonna mt',Regular;
+ display:block;
+text-align:center;
+font-size:80px;
+padding:20px 11px  10px;
+border-style:outset;
+margin-left:27%;
+margin-right:27%;
+background-color:#996633;
+margin:;}
+
+header{background-color:;
+height:130px;
+color:white;
+margin:0;
+}
+
+
+
+ 
+ .imggs{margin-left:12%;
+ border-radius:15px 50px;
+ height:280px;
+ width:290px;}
+ .imggss{margin-left:6%;
+ border-radius:15px 50px;
+  height:280px;
+ width:290px;}
+ .imggsss{margin-left:6%;
+ border-radius:15px 50px;
+  height:280px;
+ width:290px;}
+  .life{font-family:'freestyle script',regular;
+  font-size:70px;}
+ 
+ footer{background:url
+ padding:100px;
+ }
+ 
+ 
+ 
+ 
+ 
+ section{background:url(img/0.jpg) no-repeat;
+ 
+ background-size:cover;
+ height:600px;
+ padding:90px 200px;}
+ 
+ 
+ 
+ .imgs{background-color:#996633;
+ 
+ border-style:outset;
+ color:solid black;
+ padding:40px 30px 100px;}
